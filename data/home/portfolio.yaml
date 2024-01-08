@@ -1,0 +1,36 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/Thinking face-bro 1.png"
+    pretitle: "Portfolio Service"
+    title: " Dive into Deposit-Free Living"
+    text: "A blend of trust, transparency, and technology designed for modern tenants. Experience simplified renting with real-time tracking, financial flexibility, and dedicated support."
+
+    # buttons:
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Tenet Services"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  #   buttons:
+  #     - label: "See live"
+  #       url: "#"
+  #     - label: "Read more"
+  #       url: "#"
+  - image: "images/Writer's block-bro 1.png"
+    pretitle: "Landlord Services"
+    title: " Smart Deposit Solutions for Savvy Landlords"
+    text: "Reliability, clarity, and innovation for today's landlord. Streamline rentals with instant deposit tracking and steadfast support. Automated reminders for lease renewals, maintenance checks, and other important dates. Easily tie deposits to digital lease agreements, ensuring terms are transparent and adhered to."
+
+    # buttons:
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"

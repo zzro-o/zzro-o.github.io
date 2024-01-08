@@ -1,0 +1,48 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Here’s how zzroo benefit you"
+  text: " In a world where renting can often feel tethered with financial complexities, we've streamlined the journey. With zzroo , tenants enjoy unparalleled financial flexibility, and landlords experience guaranteed security. By minimizing up-front costs and eliminating tedious wait times for deposit returns, we've crafted a platform that prioritizes your convenience and peace of mind. It's the new era of renting, simplified. "
+  cards:
+    - image: ""
+      title: "Flexible Payment Plans"
+      text: "Allow tenants to choose from various payment options, such as monthly installments or staggered payments, to ease the financial burden."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: ""
+      title: "Rental Bond"
+      text: "Offer insurance coverage for the security deposit, providing an added layer of protection for tenants in case of damage disputes."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: ""
+      title: "E-Sign Lease"
+      text: "Streamline The Lease Signing Process, At No Additional Cost"
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: ""
+      title: "Tenant Screeing"
+      text: "Everything you need to protect your investment and choose the right tenant."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: ""
+      title: "Tenant Community"
+      text: "Create a community where tenants can share their experiences, advice, and connect with others in similar situations."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: ""
+      title: "Property Search"
+      text: "Integrate property search tools to help tenants find rental listings that are partnered with SecureRent India."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
